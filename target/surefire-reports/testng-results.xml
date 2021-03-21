@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="39465" started-at="2021-03-21T17:07:36 CAT" finished-at="2021-03-21T17:08:15 CAT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="39465" started-at="2021-03-21T17:07:36 CAT" finished-at="2021-03-21T17:08:15 CAT">
+      <class name="reacttest.TC02_AddToCartTest">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:reacttest.TC02_AddToCartTest@2f943d71]" name="loginTest" duration-ms="19015" started-at="2021-03-21T17:07:56 CAT" finished-at="2021-03-21T17:08:15 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- reacttest.TC02_AddToCartTest -->
+      <class name="reacttest.TC01_LoginTest">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:reacttest.TC01_LoginTest@528931cf]" name="loginTest" duration-ms="20392" started-at="2021-03-21T17:07:36 CAT" finished-at="2021-03-21T17:07:56 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- reacttest.TC01_LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
