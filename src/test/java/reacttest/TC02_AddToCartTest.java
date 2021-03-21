@@ -24,7 +24,7 @@ public class TC02_AddToCartTest {
 	
 	@Test
 	
-	public void loginTest() throws InterruptedException {
+	public void addToCart() throws InterruptedException {
 		
      
          WebDriverManager.chromedriver().setup();
@@ -57,7 +57,7 @@ public class TC02_AddToCartTest {
 		 
 		 Thread.sleep(2000);
 		 
-		 driver.quit();
+		 driver.close();
 		
 		
 	}
